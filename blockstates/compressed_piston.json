@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "extended=false,facing=north": {
+      "model": "cosmicwill:block/compressed_piston"
+    },
+    "extended=true,facing=north": {
+      "model": "cosmicwill:block/compressed_piston_base"
+    },
+    "extended=false,facing=south": {
+      "model": "cosmicwill:block/compressed_piston",
+      "y": 180
+    },
+    "extended=true,facing=south": {
+      "model": "cosmicwill:block/compressed_piston_base",
+      "y": 180
+    },
+    "extended=false,facing=west": {
+      "model": "cosmicwill:block/compressed_piston",
+      "y": 270
+    },
+    "extended=true,facing=west": {
+      "model": "cosmicwill:block/compressed_piston_base",
+      "y": 270
+    },
+    "extended=false,facing=east": {
+      "model": "cosmicwill:block/compressed_piston",
+      "y": 90
+    },
+    "extended=true,facing=east": {
+      "model": "cosmicwill:block/compressed_piston_base",
+      "y": 90
+    },
+    "extended=false,facing=up": {
+      "model": "cosmicwill:block/compressed_piston",
+      "x": 270
+    },
+    "extended=true,facing=up": {
+      "model": "cosmicwill:block/compressed_piston_base",
+      "x": 270
+    },
+    "extended=false,facing=down": {
+      "model": "cosmicwill:block/compressed_piston",
+      "x": 90
+    },
+    "extended=true,facing=down": {
+      "model": "cosmicwill:block/compressed_piston_base",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,working=false,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor"
+    },
+    "facing=north,working=false,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity"
+    },
+    "facing=north,working=true,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor_on"
+    },
+    "facing=north,working=true,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity"
+    },
+    "facing=east,working=false,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor",
+      "y": 90
+    },
+    "facing=east,working=false,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 90
+    },
+    "facing=east,working=true,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor_on",
+      "y": 90
+    },
+    "facing=east,working=true,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 90
+    },
+    "facing=south,working=false,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor",
+      "y": 180
+    },
+    "facing=south,working=false,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 180
+    },
+    "facing=south,working=true,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor_on",
+      "y": 180
+    },
+    "facing=south,working=true,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 180
+    },
+    "facing=west,working=false,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor",
+      "y": 270
+    },
+    "facing=west,working=false,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 270
+    },
+    "facing=west,working=true,singularity=false": {
+      "model": "cosmicwill:block/matter_compressor_on",
+      "y": 270
+    },
+    "facing=west,working=true,singularity=true": {
+      "model": "cosmicwill:block/matter_compressor_singularity",
+      "y": 270
+    }
+  }
+}

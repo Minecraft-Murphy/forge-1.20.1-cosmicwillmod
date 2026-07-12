@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "cosmicwill:block/matter_deconstructor"
+    },
+    "facing=north,lit=true": {
+      "model": "cosmicwill:block/matter_deconstructor_on"
+    },
+    "facing=east,lit=false": {
+      "model": "cosmicwill:block/matter_deconstructor",
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "cosmicwill:block/matter_deconstructor_on",
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "cosmicwill:block/matter_deconstructor",
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "cosmicwill:block/matter_deconstructor_on",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "cosmicwill:block/matter_deconstructor",
+      "y": 270
+    },
+    "facing=west,lit=true": {
+      "model": "cosmicwill:block/matter_deconstructor_on",
+      "y": 270
+    }
+  }
+}
